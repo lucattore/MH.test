@@ -1,9 +1,9 @@
-# 🎮 Jogo do Doutor Lucas
+# 🎮 MHtest
 
 Este é um projeto de RPG desenvolvido em Python e C++!
 
 ## 🚀 Como Jogar
-Se você quer apenas jogar, vá até a seção **Releases** no lado direito desta página e baixe o arquivo `JogoDoutorLucas.exe`.
+Se você quer apenas jogar, vá até a seção **Releases** no lado direito desta página e baixe o arquivo `MHtest.exe`.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python**: Lógica principal e interface gráfica.
@@ -14,6 +14,7 @@ Se você quer apenas jogar, vá até a seção **Releases** no lado direito dest
 As caixas de diálogo foram feitas para serem bonitinhas!
 * **Barra de Espaço**: Confirmar/Interagir.
 * **W A S D**: Movimentação e Sair.
+O combate não é tão complicado. o lado que aparecer que está atacando, é exatamente o oposto para desviar! Se aparecer Esquerda, desvie usando o **D**, e assim por diante!  
+Foi desenvolvido utilizando IA, pois é um teste.
 
 ---
-*Desenvolvido com dedicação pelo Doutor Lucas.*
