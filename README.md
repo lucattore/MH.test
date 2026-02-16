@@ -16,5 +16,3 @@ As caixas de diálogo foram feitas para serem bonitinhas!
 * **W A S D**: Movimentação e Sair.
 O combate não é tão complicado. o lado que aparecer que está atacando, é exatamente o oposto para desviar! Se aparecer Esquerda, desvie usando o **D**, e assim por diante!  
 Foi desenvolvido utilizando IA, pois é um teste.
-
----
