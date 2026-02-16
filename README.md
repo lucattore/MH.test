@@ -3,7 +3,7 @@
 Este é um projeto de RPG desenvolvido em Python e C++!
 
 ## 🚀 Como Jogar
-Se você quer apenas jogar, vá até a seção **Releases** no lado direito desta página e baixe o arquivo `JogoDoutorLucas.exe`.
+Se você quer apenas jogar, vá até a seção **Releases** no lado direito desta página e baixe o arquivo `MHtest.exe`.
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python**: Lógica principal e interface gráfica.
