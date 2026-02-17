@@ -7,7 +7,6 @@ Se você quer apenas jogar, vá até a seção **Releases** no lado direito dest
 
 ## 🛠️ Tecnologias Utilizadas
 * **Python**: Lógica principal e interface gráfica.
-* **C++**: Versão de performance e lógica de sistema.
 * **PyInstaller**: Para transformar o script em um executável.
 
 ## 📝 Notas do Desenvolvedor
